@@ -1,6 +1,8 @@
-# Installing *Minecraft Jave Edition White Sparrow (OptiFine)* on your personal computer
+# Installing *Minecraft Java Edition White Sparrow (OptiFine)* on your Personal Computer
 
-White Sparrow (OptiFine) is a custom Minecraft ModPack created by me. You'll need to download the ModPack files and to configure the Twitch Desktop Client to play on our server. Contact us for server connection information.
+White Sparrow (OptiFine) is a custom Minecraft ModPack created by me. We wanted to preserve the Vanilla experience but add useful utilities and add quality-of-life improvements. 
+
+You'll need to download the ModPack files and to configure the Twitch Desktop Client to play on our server. Contact us for server connection information.
 
 ### Preparing Twitch
 1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.
@@ -16,9 +18,12 @@ White Sparrow (OptiFine) is a custom Minecraft ModPack created by me. You'll nee
 
 ### Downloading Minecraft White Sparrow (OptiFine)
 
-1. Download the folder `WhiteSparrow(OptiFine)-1.1` from [Google Drive](https://drive.google.com/drive/folders/1rWorM8NL5D1MsGTfbzOpK-9HPl9ESGsP?usp=sharing). If you have trouble downloading the regular (non-zipped) folder, you can try the zipped folder - ust remember to extract the contents.
+1. Download the folder `WhiteSparrow(OptiFine)-1.1` from [Google Drive](https://drive.google.com/drive/folders/1rWorM8NL5D1MsGTfbzOpK-9HPl9ESGsP?usp=sharing). If you have trouble downloading the regular (non-zipped) folder, you can try the zipped folder - just remember to extract the contents.
 2. Save/move the `WhiteSparrow(OptiFine)-1.1` folder to Twitch's Minecraft Instances folder. On my system (Twitch's default location), I navigate to `C:\Users\WendiS\Twitch\Minecraft\Instances\WhiteSparrow`.
 3. If prompted to overwrite or skip files, choose `Overwrite`.
 
 
+### Ready to Play
+1. Go back to the Twitch client, return to the Minecraft page `MyModpacks`, click on the `WhiteSparrow` Modpack, and refresh the page by clicking `Refresh` just above the image. 
+2. You should see a list of `Installed Mods` populate beneath the image. If you would like to know what each Mod does, you can click on the Mod name to read the details. Some developers are better than others explaining their Mods.
 
