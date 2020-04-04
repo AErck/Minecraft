@@ -61,7 +61,11 @@ Remove these from the server mod list.
 
 **WARNING** wait for ad and click `Skip` on the top right. Dp not click on anything in the add!!
 
-10. Click the download to install.
+10. Click the download to install. Save it to a `temp` folder on the desktop.
+11. Once installation completes, open the `temp` folder and move the files to the folder that contains your exported Twitch Profile.
+Note: Before launching, consider copying existing server files (config,server properties, whitelist, etc.) into the new server.
+12. Ready to launch! Double click the `minecraft_server.1.XX.X` file to start the server.
+
 
 
 7. Next, install the Forge Server into that folder. 
