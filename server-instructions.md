@@ -8,6 +8,7 @@ Remove these from the server mod list.
 - Enchantment Descriptions
 - Hwyla
 - JEI
+- Kottle (Better Foliage dependency)
 - Light Level Overlay Reloaded
 - Mod Name Tool Tip
 - Mouse Tweaks
