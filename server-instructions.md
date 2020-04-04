@@ -29,7 +29,6 @@ Remove these from the server mod list.
 - Double Doors
 - Double Slabs
 - Easy Elytra Takeoff
-- Fast Furnace
 - Fast Leaf Decay
 - Harvest
 - Inventory Sorter
@@ -63,11 +62,7 @@ Remove these from the server mod list.
 
 10. Click the download to install. Save it to a `temp` folder on the desktop.
 11. Once installation completes, open the `temp` folder and move the files to the folder that contains your exported Twitch Profile.
-Note: Before launching, consider copying existing server files (config,server properties, whitelist, etc.) into the new server.
+Note: Before launching, consider copying existing server files (config,server properties, whitelist, options, etc.) into the new server.
 12. Ready to launch! Double click the `minecraft_server.1.XX.X` file to start the server.
 
 
-
-7. Next, install the Forge Server into that folder. 
-Make sure to remove all client only mods from your mods folder. Client only mods might include HUDs, GUIs, custom loading screens, resource loaders, minimaps, or anything else. You will need to check with the specific mod pages to determine if it is client only.
-Zip up all of the files, including the mods, config, forge...universal.jar, minecraft...server.jar, and any other files you might include in your modpack like custom scripts.
