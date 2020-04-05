@@ -7,7 +7,7 @@ You'll need to download the ModPack files and to configure the Twitch Desktop Cl
 ### Preparing Twitch
 1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.
 2. Click the `Mods` tab along the top of the Twitch client.
-3. Install Minecraft - **need deets**
+3. Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.
 4. Click on `Minecraft`.
 5. Click `Create Custom Profile`.
   1. Profile Name: `WhiteSparrow` (in a later step, you need this name, exactly as it appears)
