@@ -26,4 +26,8 @@ You'll need to download the ModPack files and to configure the Twitch Desktop Cl
 ### Ready to Play
 1. Go back to the Twitch client, return to the Minecraft page `MyModpacks`, click on the `WhiteSparrow` Modpack, and refresh the page by clicking `Refresh` just above the image. 
 2. You should see a list of `Installed Mods` populate beneath the image. If you would like to know what each Mod does, you can click on the Mod name to read the details. Some developers are better than others explaining their Mods.
+3. Click `Play` in the Twitch window and follow any additional installation instructions and sign-in requirements as needed.
+4. After the launcher has loaded, click `PLAY` and wait for the game and mods to load.
+5. Then click `Multiplayer`, then click `Add Server`.
+6. For server information, view the pinned message in our discord server or contact us.
 
