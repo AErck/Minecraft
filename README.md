@@ -10,10 +10,10 @@ You'll need to download the ModPack files and to configure the Twitch Desktop Cl
 3. Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.
 4. Click on `Minecraft`.
 5. Click `Create Custom Profile`.
-  1. Profile Name: `WhiteSparrow` (in a later step, you need this name, exactly as it appears)
-  2. Version: `1.14.4`
-  3. Modloader: `forge-28.1.56`
-  4. Click `Create`
+    1. Profile Name: `WhiteSparrow` (in a later step, you need this name, exactly as it appears)
+    2. Version: `1.14.4`
+    3. Modloader: `forge-28.1.56`
+    4. Click `Create`
 
 
 ### Downloading Minecraft White Sparrow (OptiFine)
