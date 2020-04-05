@@ -18,7 +18,7 @@ You'll need to download the ModPack files and to configure the Twitch Desktop Cl
 
 ### Downloading Minecraft White Sparrow (OptiFine)
 
-1. Download the folder `WhiteSparrow(OptiFine)-1.1` from [Google Drive](https://drive.google.com/drive/folders/1rWorM8NL5D1MsGTfbzOpK-9HPl9ESGsP?usp=sharing). If you have trouble downloading the regular (non-zipped) folder, you can try the zipped folder - just remember to extract the contents.
+1. Download the folder `WhiteSparrow(OptiFine)-1.1` from [Google Drive](https://drive.google.com/open?id=1_Sm5tEGQjehlb9z48dejWJCA9cMacwZr). If you have trouble downloading the regular (non-zipped) folder, you can try the zipped folder - just remember to extract the contents.
 2. Save/move the `WhiteSparrow(OptiFine)-1.1` folder to Twitch's Minecraft Instances folder. On my system (Twitch's default location), I navigate to `C:\Users\WendiS\Twitch\Minecraft\Instances\WhiteSparrow`.
 3. If prompted to overwrite or skip files, choose `Overwrite`.
 
