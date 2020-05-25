@@ -16,7 +16,7 @@ This server is vanilla Minecraft and will be updated as Mojang releases updates.
 5. Click `Create Custom Profile`.
     - Profile Name: `Forever Vanilla 21`
     - Version: `1.15.2`
-    - Modloader: `forge-28.1.56`
+    - Modloader: `forge-31.2.5`
     - Click `Create`
 
 **Note:** After completing the above steps, you can simply click `Play`. If you want to add client-side mods, complete the remainder of the steps on this page.
