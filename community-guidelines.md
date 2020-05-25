@@ -1,7 +1,5 @@
 # Community Guidelines
-#### Welcome to the SmartBirds.us Minecraft Server Community Guidelines!
-
-#### **First**, rest assured that there are only a few rules!
+Welcome to the SmartBirds.us Minecraft Server Community Guidelines!
 
 Our goal in creating these rules are not to control how the game is played, nor to limit how much fun you can have on the Minecraft servers. We aimed to create a minimal set of rules that provide a "Free and Fair Community for All Players."
 
