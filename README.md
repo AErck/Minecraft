@@ -22,4 +22,4 @@ Choose your experience:
 - [WhiteSparrow](white-sparrow.md)
 
 
-*Support SmartBirds.us! We pay to host these servers and maintain them for community use. Consider a [donation](https://paypal.me/wendikristine).
+*Support SmartBirds.us! We pay to host these servers and maintain them for community use. Consider a [donation](https://paypal.me/wendikristine).*
