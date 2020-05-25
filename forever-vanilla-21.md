@@ -27,9 +27,8 @@ This server is vanilla Minecraft and will be updated as Mojang releases updates.
     - Ambient Sounds by CreativeMD
     - Controlling by Jaredlll08
     - Enchantment Descriptions by DarkhaxDev
-    - Hwyla by TehNut
     - Just Enough Items (JEI) by mezz
-    - Light Level Overlay Reloaded by oldjunyi
+    - Light Overlay by shedaniel
     - Mouse Tweaks by YaLTeR
     - Neat by Vazkii
     - Swing Through Grass by exidex
