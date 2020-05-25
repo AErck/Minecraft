@@ -16,4 +16,47 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
     - Click `Create`
 
 ### Building the custom modpack
-1. 
+**Note:** In the future this will be automated, but for now we must build the modpack ourselves.
+1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.
+2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod. (This is a list of the REQUIRED mods. Below is a list of optional client-side mods that you may want to add.)
+    - AI Improvements
+    - Apple Skin
+    - Better Than Mending
+    - Biomes O Plenty
+    - Building Gadgets
+    - Carry On
+    - Clumps
+    - Cooking for Blockheads
+    - Double Doors
+    - Easy Elytra Takeoff
+    - Extended Lights
+    - Fast Leaf Decay
+    - Generator
+    - Harvest
+    - Inventory Sorter
+    - Iron Chest
+    - Light Grass
+    - McCaw's Bridges
+    - MrCrayfish's Furniture Mod
+    - Nature's Compass
+    - Ore Excavation
+    - Prefab
+    - Refined Storage
+    - Simply Backpacks
+    - Tool Belt
+    - Uppers
+    *Optional client-side mods*:
+        - Ambient Sounds
+        - Controlling
+        - Enchantment Descriptions
+        - Hwyla
+        - JEI
+        - Light Level Overlay Reloaded
+        - Mouse Tweaks
+        - Neat
+        - Swing Through Grass
+        - Xaero's World Map
+        - Xaero's Mini Map
+3. Click `Back` at the top-left of the mod list to go back to your custom profile.
+
+### You're ready to play! Click `Play` on the top-right of the window.
