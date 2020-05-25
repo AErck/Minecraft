@@ -18,7 +18,7 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
 ### Building the custom modpack
 **Note:** In the future this will be automated, but for now we must build the modpack ourselves.
 1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.
-2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod. (This is a list of the REQUIRED mods. Below is a list of optional client-side mods that you may want to add.)
+2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod.
     - REQUIRED:
         - AI Improvements
         - Apple Skin
@@ -46,7 +46,7 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
         - Simply Backpacks
         - Tool Belt
         - Uppers
-    - Optional client-side mods (leave these out if your computer is a piece of crap):
+    - *Optional client-side mods* (leave these out if your computer is a piece of crap):
         - Ambient Sounds
         - Controlling
         - Enchantment Descriptions
