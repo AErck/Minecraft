@@ -3,11 +3,11 @@
 ## How do I configure the Twitch launcher?
 
 1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.
-- Create a username/password as prompted.
-- Click the `Mods` tab along the top of the Twitch client.
-- Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.
-- Click on `Minecraft`.
-- Click `Create Custom Profile`.
+2. Create a username/password as prompted.
+3. Click the `Mods` tab along the top of the Twitch client.
+4. Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.
+5. Click on `Minecraft`.
+6. Click `Create Custom Profile`.
     - Profile Name: `Forever Vanilla 21` (in a later step, you need this name, exactly as it appears)
     - Version: `1.15.2`
     - Modloader: `forge-31.2.5`
