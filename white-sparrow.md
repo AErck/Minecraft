@@ -20,44 +20,44 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
 1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.
 2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod.
     - REQUIRED:
-        - AI Improvements
-        - Apple Skin
-        - Better Than Mending
-        - Biomes O Plenty
-        - Building Gadgets
-        - Carry On
-        - Clumps
-        - Cooking for Blockheads
-        - Double Doors
-        - Easy Elytra Takeoff
-        - Extended Lights
-        - Fast Leaf Decay
-        - Generator
-        - Harvest
-        - Inventory Sorter
-        - Iron Chest
-        - Light Grass
-        - McCaw's Bridges
-        - MrCrayfish's Furniture Mod
-        - Nature's Compass
-        - Ore Excavation
-        - Prefab
-        - Refined Storage
-        - Simply Backpacks
-        - Tool Belt
-        - Uppers
+        - AI Improvements by DarkGuardsman
+        - Apple Skin by queek502
+        - Better Than Mending by legobmw99
+        - Biomes O Plenty by Forstride
+        - Building Gadgets by Direwolf20
+        - Carry On by Tschipp
+        - Clumps by Jaredlll08
+        - Cooking for Blockheads by BlayTheNinth
+        - Double Doors by Serilum
+        - Easy Elytra Takeoff by Serilum
+        - Extended Lights by polyvalord
+        - Fast Leaf Decay by olafskiii
+        - Generator by LordMZTE
+        - Harvest by Naxanria
+        - Inventory Sorter by cpw
+        - Iron Chest by ProgWML6
+        - Light Grass by wilechaote
+        - McCaw's Bridges by sketch_macaw
+        - MrCrayfish's Furniture Mod by MrCrayfish
+        - Nature's Compass by Chaosyr
+        - Ore Excavation by Funwayguy
+        - Prefab by wuestman
+        - Refined Storage by raoulvdberge
+        - Simply Backpacks by Flanks255
+        - Tool Belt by gigaherz
+        - Uppers by vadis365
     - *Optional client-side mods* (leave these out if your computer is a piece of crap):
-        - Ambient Sounds
-        - Controlling
-        - Enchantment Descriptions
-        - Hwyla
-        - JEI
-        - Light Level Overlay Reloaded
-        - Mouse Tweaks
-        - Neat
-        - Swing Through Grass
-        - Xaero's World Map
-        - Xaero's Mini Map
+        - Ambient Sounds by CreativeMD
+        - Controlling by Jaredlll08
+        - Enchantment Descriptions by DarkhaxDev
+        - Hwyla by TehNut
+        - Just Enough Items (JEI) by mezz
+        - Light Level Overlay Reloaded by oldjunyi
+        - Mouse Tweaks by YaLTeR
+        - Neat by Vazkii
+        - Swing Through Grass by exidex
+        - Xaero's Mini Map by xaero96
+        - Xaero's World Map by xaero96
     
 3. Click `Back` at the top-left of the mod list to go back to your custom profile.
 
