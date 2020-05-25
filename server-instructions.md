@@ -3,12 +3,12 @@
 ### Client-Side Mods
 Remove these from the server mod list.
 - Ambient Sounds
-- Better Foliage
+- ~Better Foliage~
 - Controlling
 - Enchantment Descriptions
 - Hwyla
 - JEI
-- Kottle (Better Foliage dependency)
+- ~Kottle (Better Foliage dependency)~
 - Light Level Overlay Reloaded
 - Mod Name Tool Tip
 - Mouse Tweaks
