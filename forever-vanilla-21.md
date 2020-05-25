@@ -24,17 +24,17 @@ This server is vanilla Minecraft and will be updated as Mojang releases updates.
 ### Building the custom modpack
 1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.
 2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod. Recall that all of these are optional. You do not have to install all of them.
-    - Ambient Sounds
-    - Controlling
-    - Enchantment Descriptions
-    - Hwyla
-    - JEI
-    - Light Level Overlay Reloaded
-    - Mouse Tweaks
-    - Neat
-    - Swing Through Grass
-    - Xaero's World Map
-    - Xaero's Mini Map
+    - Ambient Sounds by CreativeMD
+    - Controlling by Jaredlll08
+    - Enchantment Descriptions by DarkhaxDev
+    - Hwyla by TehNut
+    - Just Enough Items (JEI) by mezz
+    - Light Level Overlay Reloaded by oldjunyi
+    - Mouse Tweaks by YaLTeR
+    - Neat by Vazkii
+    - Swing Through Grass by exidex
+    - Xaero's Mini Map by xaero96
+    - Xaero's World Map by xaero96
 3. Click `Back` at the top-left of the mod list to go back to your custom profile.
 
 ### You're ready to play! Click `Play` on the top-right of the window.
