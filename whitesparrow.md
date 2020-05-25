@@ -1,6 +1,6 @@
-# White Sparrow
+# *WhiteSparrow* SmartBirds.us Minecraft Server
 
-White Sparrow (OptiFine) is a custom Minecraft ModPack created by me. We wanted to preserve the Vanilla experience but add useful utilities and add quality-of-life improvements. 
+White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted to preserve the Vanilla experience but add useful utilities and add quality-of-life improvements. 
 
 ### Preparing Twitch
 1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.
