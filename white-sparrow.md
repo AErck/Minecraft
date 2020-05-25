@@ -2,7 +2,9 @@
 
 White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted to preserve the Vanilla experience but add useful utilities and add quality-of-life improvements. 
 
-### Preparing Twitch
+## Preparing Twitch
+
+### Installing Twitch and Minecraft
 1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.
 2. Click the `Mods` tab along the top of the Twitch client.
 3. Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.
@@ -12,3 +14,6 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
     - Version: `1.14.4`
     - Modloader: `forge-28.1.56`
     - Click `Create`
+
+### Building the custom modpack
+1. 
