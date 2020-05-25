@@ -19,34 +19,34 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
 **Note:** In the future this will be automated, but for now we must build the modpack ourselves.
 1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.
 2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod. (This is a list of the REQUIRED mods. Below is a list of optional client-side mods that you may want to add.)
-    - AI Improvements
-    - Apple Skin
-    - Better Than Mending
-    - Biomes O Plenty
-    - Building Gadgets
-    - Carry On
-    - Clumps
-    - Cooking for Blockheads
-    - Double Doors
-    - Easy Elytra Takeoff
-    - Extended Lights
-    - Fast Leaf Decay
-    - Generator
-    - Harvest
-    - Inventory Sorter
-    - Iron Chest
-    - Light Grass
-    - McCaw's Bridges
-    - MrCrayfish's Furniture Mod
-    - Nature's Compass
-    - Ore Excavation
-    - Prefab
-    - Refined Storage
-    - Simply Backpacks
-    - Tool Belt
-    - Uppers
-
-    Optional client-side mods (leave these out if your computer is a piece of crap)
+    - REQUIRED:
+        - AI Improvements
+        - Apple Skin
+        - Better Than Mending
+        - Biomes O Plenty
+        - Building Gadgets
+        - Carry On
+        - Clumps
+        - Cooking for Blockheads
+        - Double Doors
+        - Easy Elytra Takeoff
+        - Extended Lights
+        - Fast Leaf Decay
+        - Generator
+        - Harvest
+        - Inventory Sorter
+        - Iron Chest
+        - Light Grass
+        - McCaw's Bridges
+        - MrCrayfish's Furniture Mod
+        - Nature's Compass
+        - Ore Excavation
+        - Prefab
+        - Refined Storage
+        - Simply Backpacks
+        - Tool Belt
+        - Uppers
+    - Optional client-side mods (leave these out if your computer is a piece of crap):
         - Ambient Sounds
         - Controlling
         - Enchantment Descriptions
