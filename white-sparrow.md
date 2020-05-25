@@ -45,18 +45,18 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
     - Simply Backpacks
     - Tool Belt
     - Uppers   
-    *Optional client-side mods* (leave these out if your computer is a piece of crap)
-        - Ambient Sounds
-        - Controlling
-        - Enchantment Descriptions
-        - Hwyla
-        - JEI
-        - Light Level Overlay Reloaded
-        - Mouse Tweaks
-        - Neat
-        - Swing Through Grass
-        - Xaero's World Map
-        - Xaero's Mini Map
+*Optional client-side mods* (leave these out if your computer is a piece of crap)
+    - Ambient Sounds
+    - Controlling
+    - Enchantment Descriptions
+    - Hwyla
+    - JEI
+    - Light Level Overlay Reloaded
+    - Mouse Tweaks
+    - Neat
+    - Swing Through Grass
+    - Xaero's World Map
+    - Xaero's Mini Map
 3. Click `Back` at the top-left of the mod list to go back to your custom profile.
 
 ### You're ready to play! Click `Play` on the top-right of the window.
