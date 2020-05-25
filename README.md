@@ -20,3 +20,6 @@ Now you're ready to configure your computer to play with SmartBirds.us!
 Choose your experience:
 - [Forever Vanilla 21](forever-vanilla-21.md)
 - [WhiteSparrow](white-sparrow.md)
+
+
+*Support SmartBirds.us! We pay to host these servers and maintain them for community use. Consider a [donation](https://paypal.me/wendikristine).
