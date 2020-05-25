@@ -45,6 +45,7 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
     - Simply Backpacks
     - Tool Belt
     - Uppers
+    
 *Optional client-side mods* (leave these out if your computer is a piece of crap)
     - Ambient Sounds
     - Controlling
