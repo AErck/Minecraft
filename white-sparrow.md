@@ -62,6 +62,7 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
 3. Click `Back` at the top-left of the mod list to go back to your custom profile.
 
 ***Recommended memory modification of your custom profile***
+
 Custom profiles default to 3000 MB of RAM. While playing modded Minecraft, this may be insufficient. To increase the amount of RAM available to Minecraft, click the gear in the upper-right corner of the window and select `Profile Options`. Uncheck the `Use System Memory Settings` box. Drag the slider to your desired amount of RAM. We recommend 4000 - 6000 MB of memory. Click `Okay` to save your changes. *If your computer is low on RAM, you may want to stay at the default amount, but you may encounter performance issues such as lag.*
 
 ### You're ready to play! Click `Play` on the top-right of the window.
