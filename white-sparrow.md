@@ -45,7 +45,7 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
     - Simply Backpacks
     - Tool Belt
     - Uppers
-    *Optional client-side mods*:
+    *Optional client-side mods* (leave these out if your computer is a piece of crap)
         - Ambient Sounds
         - Controlling
         - Enchantment Descriptions
@@ -60,3 +60,8 @@ White Sparrow is a custom Minecraft ModPack created by SmartBirds.us. We wanted 
 3. Click `Back` at the top-left of the mod list to go back to your custom profile.
 
 ### You're ready to play! Click `Play` on the top-right of the window.
+The Twitch launcher will pop up a Minecraft launcher. Click the green `Play` button at the bottom of the window and wait for the game to load.
+
+## WhiteSparrow server access information
+1. Click `Multiplayer` when you get the Minecraft's main load screen.
+2. Click `Add Server`.
