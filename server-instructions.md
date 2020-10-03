@@ -65,6 +65,9 @@ Remove these from the server mod list.
 8. In the `temp` folder (that only contains your forge file), double click the file to install.
 9. Once installation completes, open the `temp` folder and move the files to the folder that contains your exported Twitch Profile.
 Note: Before launching, consider copying existing server files (config,server properties, whitelist, options, etc.) into the new server.
-10. Ready to launch! Double click the `minecraft_server.1.XX.X` file to start the server.
-
-
+10. Ready to launch! Double click the `minecraft_server.1.XX.X` file to start the server. If on Windows, you'll need to create a `serverstart.bat` file with the following contents:
+```
+@ECHO OFF
+java -Xms4G -Xmx4G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=35 -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -jar server.jar nogui
+pause
+```
