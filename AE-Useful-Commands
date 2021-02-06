@@ -1,3 +1,7 @@
 Summon a villager
 
 /summon villager ~ ~1 ~ {VillagerData:{profession:farmer,level:2,type:savanna}}
+
+Unbreakable Iron pickaxe
+
+/give duckmister Minecraft:iron_pickaxe{Unbreakable:1b}
