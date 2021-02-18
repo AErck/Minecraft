@@ -11,4 +11,4 @@ Summon Jasper, My horse
 
 Summon Persistent Tropical Fish
 
-/summon tropical_fish ~ ~ ~ {CustomName:"\"Fish\"", PersistenceRequired:1, Invulnerable:1}
+/summon tropical_fish ~ ~ ~ {CustomName:"\"Fish\"", PersistenceRequired:1, Invulnerable:1, Variant:?????}
