@@ -7,7 +7,7 @@ Unbreakable Iron pickaxe
 /give duckmister Minecraft:iron_pickaxe{Unbreakable:1b}
 
 Summon Jasper, My horse
-/summon horse ~ ~ ~ {Variant:260, Tame:1, CustomName:"\"Jasper\"", Attributes:[{Name:generic.max_health,Base:60.0}, {Name:horse.jump_strength,Base:2.0}, {Name:generic.movement_speed,Base:4.0}],Invulnerable:1}
+/summon horse ~ ~ ~ {Variant:260, Tame:1, CustomName:"\"Jasper\"", Attributes:[{Name:generic.max_health,Base:40.0}, {Name:horse.jump_strength,Base:3.0}, {Name:generic.movement_speed,Base:1.0}],Invulnerable:1}
 
 Summon Persistent Tropical Fish
 
