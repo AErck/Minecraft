@@ -10,39 +10,6 @@ This server is vanilla Minecraft and will be updated as Mojang releases updates.
 
 Updated instructions coming soon.
 
-~### Installing Twitch and Minecraft~
-~1. Install the [Twitch Desktop Client](https://www.twitch.tv/download) and open it.~
-~2. Click the `Mods` tab along the top of the Twitch client.~
-~3. Install Minecraft by clicking on the grayed-out picture of Minecraft, follow instructions if prompted.~
-~4. Click on `Minecraft`.~
-~5. Click `Create Custom Profile`.~
-    ~- Profile Name: `Forever Vanilla 21`~
-    ~- Version: `1.15.2`~
-    ~- Modloader: `forge-31.2.5`~
-    ~- Click `Create`~
-
-~**Note:** After completing the above steps, you can simply click `Play`. If you want to add client-side mods, complete the remainder of the steps on this page.~
-
-~### Building the custom modpack~
-~1. After completing the previous step above, you should be looking at your new custom Minecraft profile. Now, to add modpacks, click `Get More Content` in the upper-right corner. This produces a list of mods.~
-~2. One-by-one, go progress through the following list by typing the name of the mod in the search bar and then clicking `Install` on the correct mod. Recall that all of these are optional. You do not have to install all of them.~
-    ~- Ambient Sounds by CreativeMD~
-    ~- Controlling by Jaredlll08~
-    ~- Enchantment Descriptions by DarkhaxDev~
-    ~- Just Enough Items (JEI) by mezz~
-    ~- Light Overlay by shedaniel~
-    ~- Mouse Tweaks by YaLTeR~
-    ~- Neat by Vazkii~
-    ~- Swing Through Grass by exidex~
-    ~- Xaero's Mini Map by xaero96~
-    ~- Xaero's World Map by xaero96~
-~3. Click `Back` at the top-left of the mod list to go back to your custom profile.~
-
-***Optional memory modification of your custom profile***
-~Custom profiles default to 3000 MB of RAM. While playing vanilla, this should be sufficient. However, if you want to increase the amount of RAM available to Minecraft, click the gear in the upper-right corner of the window and select `Profile Options`. Uncheck the `Use System Memory Settings` box. Drag the slider to your desired amount of RAM. We recommend 4000 - 6000 MB of memory. Click `Okay` to save your changes. *If your computer is low on RAM, you may want to stay at the default amount.*~
-
-~### You're ready to play! Click `Play` on the top-right of the window.~
-~The Twitch launcher will pop up a Minecraft launcher. Click the green `Play` button at the bottom of the window and wait for the game to load.~
 
 ## Forever Vanilla 21 server access information
 1. Click `Multiplayer` when you get the Minecraft's main load screen.
