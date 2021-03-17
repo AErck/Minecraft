@@ -72,7 +72,7 @@ The Twitch launcher will pop up a Minecraft launcher. Click the green `Play` but
 1. Click `Multiplayer` when you get the Minecraft's main load screen.
 2. Click `Add Server` and fill in the information below:
     - Server Name: `WhiteSparrow`
-    - Server address: `whitesparrow.smartbirds.us`
+    - Server address: *<available via Discord>*
 3. Click `Done` and you will be returned to the previous screen. The game will automatically attempt to connect. Once the connection is established (denoted by green signal strength bars on the right side of the server entry) you can click the server image to join the server.
 
 ---
