@@ -6,7 +6,7 @@ As mentioned on the home page, using the Twitch Minecraft launcher is a bit of o
 
 This server is vanilla Minecraft and will be updated as Mojang releases updates.
 
-## Preparing CurseForge
+## Preparing to Play
 
 Updated instructions coming soon.
 
