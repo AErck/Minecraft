@@ -4,8 +4,10 @@
 
 ## Install Options
 Feel free to get the required files for the pack from this page. The mods can be found in the "Mods" folder located on this page, and other configuration files can be found at: https://github.com/AErck/Minecraft/tree/master/Configuration-Files
+#### Note: The Caves & Cliffs Backport Mod is not included here due to file size restrictions.
 
 Otherwise you are more than welcome to install the files directly from curseforge in the "Create Custom Profile" menu.
+#### Note: When installing the mods from curse forge, please be sure that all mod versions match the ones listed on this page.
 
 ## Mod List
 ### For these mods, start in the "Add More Content" screen without searching for anything. The first 80 mods are listed in the order that they are found on this screen, so just scroll down that screen. :-)
