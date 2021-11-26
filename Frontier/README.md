@@ -1,8 +1,11 @@
 # Welcome to the Frontier Modpack!
-
 ### Frontier Mod Pack Info: Minecraft: 1.16.5 Forge: 36.2.16
-
 **Mods marked with a {C} are client-side only and 100% optional**
+
+## Install Options
+Feel free to get the required files for the pack from this page. The mods can be found in the "Mods" folder located on this page, and other configuration files can be found at: https://github.com/AErck/Minecraft/tree/master/Configuration-Files
+
+Otherwise you are more than welcome to install the files directly from curseforge in the "Create Custom Profile" menu.
 
 ## Mod List
 ### For these mods, start in the "Add More Content" screen without searching for anything. The first 80 mods are listed in the order that they are found on this screen, so just scroll down that screen. :-)
