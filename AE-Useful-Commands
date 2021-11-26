@@ -1,0 +1,21 @@
+Summon a villager
+
+/summon villager ~ ~1 ~ {VillagerData:{profession:farmer,level:2,type:savanna}}
+
+Unbreakable Iron pickaxe
+
+/give duckmister Minecraft:iron_pickaxe{Unbreakable:1b}
+
+Summon Jasper, My horse
+/summon horse ~ ~ ~ {Variant:260, Tame:1, CustomName:"\"Jasper\"", Attributes:[{Name:generic.max_health,Base:40.0}, {Name:horse.jump_strength,Base:3.0}, {Name:generic.movement_speed,Base:1.0}],Invulnerable:1}
+
+Summon Persistent Tropical Fish
+
+/summon tropical_fish ~ ~ ~ {CustomName:"\"Fish\"", PersistenceRequired:1, Invulnerable:1, Variant:?????}
+
+Load Village Structures with Structure Block
+
+  1. Place Structure block and set to load mode.
+  2. Enter structure name (See options here: https://minecraft.gamepedia.com/Village/Structure#All_structures )
+    * Generic structure: village/<biome>/<structure-type>/<specific-structure>
+    * Example: village/plains/houses/plains_small_house_5  This would load the plains biome house called plains_small_house_5.
