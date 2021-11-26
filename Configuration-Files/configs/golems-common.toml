@@ -1,0 +1,21 @@
+
+[general]
+	#When enabled, attacking a player-built entity will make it attack you
+	friendly_fire = true
+	#Super secret special days
+	holidays = true
+	#Percent chance for a villager to successfully summon an Extra Golems entity
+	#Range: 0 ~ 100
+	villager_summon_chance = 60
+	#Golems that can be summoned by villagers
+	#(Duplicate entries increase chances)
+	villager_summon_golems = ["golems:golem_bookshelf", "golems:golem_clay", "golems:golem_coal", "golems:golem_crafting", "golems:golem_glass", "golems:golem_glowstone", "golems:golem_leaves", "golems:golem_melon", "golems:golem_mushroom", "golems:golem_obsidian", "golems:golem_quartz", "golems:golem_red_sandstone", "golems:golem_sandstone", "golems:golem_stained_glass", "golems:golem_colored_terracotta", "golems:golem_straw", "golems:golem_terracotta", "golems:golem_wooden", "golems:golem_wool"]
+	#When true, only players in creative mode can use a Bedrock Golem spawn item
+	bedrock_golem_creative_only = true
+	#When enabled, players can 'use' the spell item on a carved pumpkin to convert it to a entity head in-world
+	use_spell = true
+	#When true, pumpkins can be used to build this mod's golems
+	pumpkin_builds_golems = false
+	#When enabled, giving blocks and items to golems can restore health
+	heal_golems = true
+

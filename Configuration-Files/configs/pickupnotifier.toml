@@ -1,0 +1,11 @@
+
+#Config options for the logical server, e. g. game logic, data storage, entity collisions.
+[server]
+
+	[server.general]
+		#Show entries for items picked up that don't go to the player's inventory. This will enable compatibility with some backpack mods, but might also falsely log items the player never actually receives.
+		"Backpack Compatibility" = true
+		#Collect partial pick-up entries (when there isn't enough room in your inventory) in the log.
+		#Might accidentally log items that have not been picked up, therefore it can be disabled.
+		"Partial Pick-Ups" = true
+
