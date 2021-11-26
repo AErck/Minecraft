@@ -5,7 +5,7 @@ send_feedback = true
 [delays]
 	#Time between 2 status prints
 	#Range: > 1
-	print = 20
+	print = 10
 	#Time between 2 saving events
 	#Range: > 1
 	save = 20
@@ -13,7 +13,7 @@ send_feedback = true
 #Parameters for the parallel generation of several chunks
 [parallel]
 	#Should the chunks be generated in parallel?
-	enabled = true
+	enabled = false
 	#How many chunk generation shall run in parallel? If the value is "0", the number of processor cores is used.
 	#Range: > 0
-	count = 4
+	count = 0
