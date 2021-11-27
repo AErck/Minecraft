@@ -118,3 +118,6 @@ Otherwise you are more than welcome to install the files directly from curseforg
 101. Create 0.3.2
 102. Create Crafts & Additions 20211122
 103. Create Deco 1.1.2
+104. ForgeEndertech 7.2.2.0
+105. ExpandAbility 2.0.1
+106. Collective (Forge) 3.0
