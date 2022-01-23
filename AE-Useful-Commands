@@ -19,3 +19,5 @@ Load Village Structures with Structure Block
   2. Enter structure name (See options here: https://minecraft.gamepedia.com/Village/Structure#All_structures )
     * Generic structure: village/<biome>/<structure-type>/<specific-structure>
     * Example: village/plains/houses/plains_small_house_5  This would load the plains biome house called plains_small_house_5.
+    * Loading Modded Structure: Check in Jar file with Atom.
+    * valhelsia_structures:castle 
